@@ -2,7 +2,7 @@
 <img src="public/1.png" alt="proyecto cotizador">
 
 ## Descripción 
-Breve proyecto aplicando react con vite
+Breve proyecto aplicando react con vite, donde puse en practica hook como useEffect y useState, para manejar eventos
 ## Autor ✒️
 **Yechua Silva**
 
@@ -15,7 +15,8 @@ Breve proyecto aplicando react con vite
 - Clone el repositorio en su maquina  
 - Luego instale las dependencias en la carpeta del proyecto <br>
     <code> npm install </code>
-- Con  <code> npm run dev </code>  ejecuta el proyecto como localhost
+- Con  <code> npm run dev </code>  ejecuta el proyecto como dependecia de desarrollo en localhost
+- Con  <code> npm run build </code>   mueve el proyecto para produccion
   
 ## Contratación
 Si estás interesado en contratarme, puedes ponerte en contacto conmigo escribiendo a yechua-silva@outlook.cl para cualquier consulta o solicitud.
