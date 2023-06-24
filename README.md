@@ -2,7 +2,7 @@
 <img src="public/1.png" alt="proyecto cotizador">
 
 ## Descripción 
-Breve proyecto aplicando react con vite, donde puse en practica hook como useEffect y useState, para manejar eventos
+El proyecto es un cotizador de préstamos desarrollado con React y Vite. Permite a los usuarios seleccionar un rango de préstamos desde 0 hasta 20000 USD, así como elegir la duración en meses, con opciones de 6, 12 y 24 meses. Con base en estos datos, el sistema calcula y muestra el total a pagar y el pago mensual correspondiente. El algoritmo aplicado considera que a mayor cantidad de dinero solicitada, los intereses son menores, y a menor plazo de pago, también se generan menos intereses. Esta herramienta brinda a los usuarios una estimación rápida y precisa de los costos asociados a un préstamo, permitiéndoles tomar decisiones informadas sobre sus finanzas personales.
 ## Autor ✒️
 **Yechua Silva**
 
