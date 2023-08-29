@@ -9,7 +9,7 @@ El proyecto es un cotizador de préstamos desarrollado con React y Vite. Permite
 * [LinkedIn](https://www.linkedin.com/in/yechua-silva/)
 
 ## Ver ejemplo en vivo 
-- [https://cotizador-prestamos-react-yechua.netlify.app/](https://cotizador-prestamos-react-yechua.netlify.app/)
+- [Cotizador React](https://cotizador-prestamos-react-yechua.netlify.app/)
 
 ## Instalación 
 - Clone el repositorio en su maquina  
